@@ -67,4 +67,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 # Laravel 10 Cource
 
-## Get his Course from Weslytech Tuts.
+## Get this Course from Weslytech Tuts.
